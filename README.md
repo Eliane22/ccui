@@ -12,4 +12,7 @@ min gu gu
 i have a pen
 i have a penapple
 
+min gu gu4
+
 pen penapple apple pen
+
