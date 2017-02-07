@@ -1,4 +1,3 @@
 # ccui
 loft,responsive
-no histroy no egg
-no apple
+no histroy no egg no pear
