@@ -3,4 +3,5 @@ loft,responsive
 <<<<<<< HEAD
 no histroy no 
 =======
->>>>>>> parent of 8e202df... Delete README.md
+no histroy no 
+>>>>>>> parent of 79ffd9c... over and over
