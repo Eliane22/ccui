@@ -18,3 +18,5 @@ pen penapple apple pen
 
 min gu gu5
 
+min gu gu6
+
