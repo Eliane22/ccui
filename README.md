@@ -8,3 +8,4 @@ min gugu2
 
 min gu gu
 i have a pen
+i add a bad ending
