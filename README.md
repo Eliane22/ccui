@@ -1,10 +1,4 @@
-# ccui
-loft,responsive
-no histroy no egg no pear
-no apple
-
-min gugu
-min gugu2
-
-min gu gu
-i have a pen
+# ccui v0.9
+ccui由Concise & Compatibility两个单词组成，意为简洁和兼容，它是一个轻量级的定制性极好的开源前端框架。ccui把UI部分从框架中分离出来，你可以在现有UI的基础上搭建简单的网站，也可以修改丰富现有的UI，甚至创建自己的个性UI。ccui在基础UI和框架布局上兼容了较老版本的IE6-9系列浏览器，弥补了国内前端框架少，国外框架兼容性差，难入手的不足。
+# ccui v1.0
+1.0以SASS为基础编译生成订制的前端框架，适合各种后台和网页展示。兼容性较v0.9有较大差距，IE系列只支持9.0及以上版本，IE8只支持到栅栏系统。
